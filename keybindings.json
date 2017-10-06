@@ -1,0 +1,21 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "cmd+m a",
+        "command": "explorer.newFile"
+    },
+    {
+        "key": "shift+cmd+enter",
+        "command": "intelephense.import"
+    },
+    {
+        "key": "ctrl+]",
+        "command": "editor.action.goToDeclaration",
+        "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+    },
+    {
+        "key": "cmd+m s",
+        "command": "explorer.newFolder"
+    }
+    
+]

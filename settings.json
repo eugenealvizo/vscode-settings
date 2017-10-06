@@ -1,0 +1,23 @@
+{
+    "workbench.activityBar.visible": false,
+    "window.zoomLevel": -1.8,
+    "vim.disableAnnoyingNeovimMessage": true,
+    "vim.statusBarColorControl": true,
+    "vim.statusBarColors": {
+        "normal": "#7E3469",
+        "insert": "#3D50C1",
+        "visual":"#5f00af",
+        "visualline": "#005f87",
+        "visualblock": "#86592d",
+        "replace": "#000000"
+    },
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#7E3469",
+        "statusBar.noFolderBackground": "#7E3469",
+        "statusBar.debuggingBackground": "#7E3469"
+    },
+
+    "workbench.colorTheme": "Ayu Mirage",
+    "editor.fontFamily": "Droid Sans Mono for Powerline"
+
+}
