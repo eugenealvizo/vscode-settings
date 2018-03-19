@@ -16,6 +16,15 @@
     {
         "key": "cmd+m s",
         "command": "explorer.newFolder"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "list.select",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "cmd+down",
+        "command": "-list.select",
+        "when": "listFocus && !inputFocus"
     }
-    
 ]
