@@ -1,6 +1,6 @@
 {
     "workbench.activityBar.visible": false,
-    "window.zoomLevel": -1.8,
+    "window.zoomLevel": 1,
     "vim.disableAnnoyingNeovimMessage": true,
     "vim.statusBarColorControl": true,
     "vim.statusBarColors": {
